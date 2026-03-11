@@ -1,7 +1,4 @@
 ## Hi there 👋
-
-# Hi there, I'm Adam! 👋
-
 I am a 3rd-year **Technical Physics student at AGH University** in Poland. My main interests lie at the intersection of **particle physics, data analysis, and machine learning**.
 ### 🛠️ Skills & Tools
 - **Languages:** Python, SQL (Basic)
