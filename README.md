@@ -4,8 +4,7 @@ I am a 3rd-year **Technical Physics student at AGH University** in Poland. My ma
 - **Languages:** Python, SQL (Basic)
 - **Machine Learning & Data Science:** PyTorch, Scikit-learn, XGBoost, Pandas, NumPy, Matplotlib
 - **Domain Knowledge:** Advanced Mathematics & Statistics, Particle Physics
-- **Tools:** Git, LaTeX
-- 
+- **Tools:** Git, LaTeX 
 ---
 ### 🚀 Projects
 
