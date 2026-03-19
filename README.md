@@ -12,7 +12,7 @@ I am a 3rd-year **Technical Physics student at AGH University** in Poland. My ma
 - Developed a machine learning model for binary classification to distinguish neutrino signals from atmospheric muon background in large datasets.
 - Handled data preprocessing, feature engineering, and model optimization.
 - Built using **Python, Scikit-learn, and XGBoost**.
-- 
+
 #### 🌡️[Predicting Superconductor Critical Temperature using ML](https://github.com/wyspa11/Superconductors---regression.git)
 - Exploratory data analysis of 21,000+ superconducting materials.
 - Comparison of various ML models and ensemble methods to optimize  predictions.
